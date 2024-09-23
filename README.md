@@ -3,18 +3,18 @@ modding poolians
 
 # Changing background textures
 theres 3 ways to go about doing this:
-  ## 1.
+  - 1.
       download pooler.exe
 
-  ## 2.
+  - 2.
       download main.py and run that if you have python installed
 
-  ## 3.
+  - 3.
       if you have another way of xoring things then go for it but i made main.py and pooler.exe for convenience.
 
 once you have either pooler.exe, main.py or some other method, go to "C:\Program Files (x86)\Steam\steamapps\common\Real Pool 3D" (or on steam, go to poolians in your library -> click the gear -> manage -> browse local files) then go to the "RealPool3D" folder then to the "3d" folder. inside you will see 2 .pak files:
-  ## common.pak
-  ## room1.pak
+  - common.pak
+ room1.pak
 
 we only care about room1.pak here.
 copy room1.pak to the same place where you have pooler.exe or main.py. once copied, run the program and as the input, put room1.pak and as the output you can put whatever you want (as long as its a .zip), but for the sake of niceness, lets say room1.zip.
